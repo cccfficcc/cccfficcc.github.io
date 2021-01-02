@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 <div class="content-block" id="intro">
 <h3>聚会内容</h3>
 因为疫情原因，我们每周五晚上 7:30 - 9:30 在线上聚会。<br>
-Zoom Link: <a href="https://cornell.zoom.us/j/91405246988?">https://cornell.zoom.us/j/91405246988?</a> （请 <a href="mailto:{{ site.email | encode_email }}">Email</a> 联系团契负责人询问加入密码）<br>
+Zoom Link: <a href="https://cornell.zoom.us/j/91405246988">https://cornell.zoom.us/j/91405246988</a> （请 <a href="mailto:{{ site.email | encode_email }}">Email</a> 联系团契负责人询问加入密码）<br>
 聚会开始我们会先一起诗歌敬拜，查考圣经然后分享祷告。
 还不是基督徒、但对信仰有兴趣的朋友们则可以加入我们的福音组，查考适合慕道朋友的经文并讨论各种信仰议题。
 </div>
@@ -39,6 +39,7 @@ Zoom Link: <a href="https://cornell.zoom.us/j/91405246988?">https://cornell.zoom
 <div class="content-block" id="links">
   <h3>Internal Links</h3>
   <div class="list-group">
+    <a href="https://docs.google.com/spreadsheets/d/19zXQIHOSMguO0Z2KVGTINlm51CKcjGXQoLS9RZ3nuvE/edit#gid=509030448" target="_blank" class="list-group-item list-group-item-action">查经安排</a>
     <a href="https://docs.google.com/spreadsheets/d/1fTmJsCPD79zt0nIhrw1GFQkysZcQx0wy0W1yLiPdkGI/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">接送安排</a>
     <a href="https://docs.google.com/spreadsheets/d/1t71xdCgtYfgdhqLPqmgqvWGuqXX15VhwdH8Q-psgOy4/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">同工安排</a>
     <a href="https://docs.google.com/spreadsheets/d/17bAOvcNsK-pKnsjn-r7VfBZLXpGezmf6VGI0FiaTSDU/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">通讯录</a>
