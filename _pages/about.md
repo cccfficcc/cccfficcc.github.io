@@ -18,9 +18,6 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- 我们是康奈尔中文查经班(Cornell Chinese Christian Fellowship)的大家庭！
-我们每周五晚上都会在教会用晚餐、聚会，分享主爱、聆听主的话语。除每周聚会外也会不定期举办各种活动。诚挚欢迎基督徒或是对信仰有兴趣的朋友加入我们的行列！ -->
-
 {% include news.html %}
 
 <div class="content-block" id="intro">
@@ -33,7 +30,7 @@ Zoom Link: <a href="https://cornell.zoom.us/j/91405246988">https://cornell.zoom.
 
 <div class="content-block" id="schedule">
   <h3>查经安排</h3>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7XMJ3D6V6hkC6BhjqMK6WTiiDkZ7CUsbgtl1onSKulHsI55l4BF9ZNG0Oda3xKYeWE8X_0F9evC_/pubhtml?gid=509030448&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7XMJ3D6V6hkC6BhjqMK6WTiiDkZ7CUsbgtl1onSKulHsI55l4BF9ZNG0Oda3xKYeWE8X_0F9evC_/pubhtml?gid=2115898420&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 
 <div class="content-block" id="links">
