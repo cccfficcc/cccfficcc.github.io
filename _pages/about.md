@@ -30,7 +30,7 @@ Zoom Link: <a href="https://cornell.zoom.us/j/91405246988">https://cornell.zoom.
 
 <div class="content-block" id="schedule">
   <h3>查经安排</h3>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7XMJ3D6V6hkC6BhjqMK6WTiiDkZ7CUsbgtl1onSKulHsI55l4BF9ZNG0Oda3xKYeWE8X_0F9evC_/pubhtml?gid=2115898420&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7XMJ3D6V6hkC6BhjqMK6WTiiDkZ7CUsbgtl1onSKulHsI55l4BF9ZNG0Oda3xKYeWE8X_0F9evC_/pubhtml?gid=2115898420&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
 </div>
 
 <div class="content-block" id="links">
