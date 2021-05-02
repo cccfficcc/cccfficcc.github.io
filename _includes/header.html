@@ -27,10 +27,27 @@
       </button>
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
+          {% if page.url contains 'blog' %}
+          {% else %}
           <li class="nav-item"><a class="nav-link" href="#news">News</a>
           <li class="nav-item"><a class="nav-link" href="#intro">聚会内容</a>
           <li class="nav-item"><a class="nav-link" href="#schedule">查经安排</a>
+          {% endif %}
+          {% if site.blog_name %}
+          <!-- Blog -->
+          <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/blog/' | relative_url }}">
+              特别活动
+              {% if page.title == "blog" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          {% endif %}
+          {% if page.url contains 'blog' %}
+          {% else %}
           <li class="nav-item"><a class="nav-link" href="#links">Links</a>
+          {% endif %}
           <!-- About -->
           <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
@@ -40,17 +57,7 @@
               {% endif %}
             </a>
           </li>
-          {% if site.blog_name %}
-          <!-- Blog -->
-          <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/blog/' | relative_url }}">
-              Blog
-              {% if page.title == "blog" %}
-              <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
-          </li>
-          {% endif %}
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
