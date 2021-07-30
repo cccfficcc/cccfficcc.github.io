@@ -17,6 +17,11 @@ profile:
 news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
+<div class="content-block" id="intro">
+<h3>欢迎新朋友</h3>
+我们将在8月20日晚上6：30在伊的家华人基督教会（429 Mitchell St.）举办迎新会 – 将会有免费的中餐，康奈尔商学院丛林 (Will Cong) 教授会与我们分享他的独特经历！我们在开学期间也预备了各类服务新生的活动：伊萨卡内的接机/接bus服务，新生生活用品采购接送等（机会有限！)。
+<strong>如果你感兴趣的话，请填写以下Google Form <a href="https://forms.gle/M7GUiw4RRM26KoNJ7">https://forms.gle/M7GUiw4RRM26KoNJ7</a></strong>。
+</div>
 
 {% include news.html %}
 
