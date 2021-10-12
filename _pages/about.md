@@ -17,20 +17,15 @@ profile:
 news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
-<div class="content-block" id="intro">
-<h3>欢迎新朋友</h3>
-我们将在8月20日晚上6：30在伊的家华人基督教会（429 Mitchell St.）举办迎新会 – 将会有免费的晚餐，康奈尔商学院丛林 (Will Cong) 教授会与我们分享他的独特经历！我们在开学期间也预备了各类服务新生的活动：伊萨卡内的接机/接bus服务，新生生活用品采购接送等（机会有限！)。
-<strong>如果你感兴趣的话，请填写以下Google Form <a href="https://forms.gle/M7GUiw4RRM26KoNJ7">https://forms.gle/M7GUiw4RRM26KoNJ7</a></strong>。
-</div>
 
 {% include news.html %}
 
 <div class="content-block" id="intro">
 <h3>聚会内容</h3>
-因为疫情原因，我们每周五晚上 7:30 - 9:30 在线上聚会。<br>
-Zoom Link: <a href="https://cornell.zoom.us/j/91405246988">https://cornell.zoom.us/j/91405246988</a> （请 <a href="mailto:{{ site.email | encode_email }}">Email</a> 联系团契负责人询问加入密码）<br>
-聚会开始我们会先一起诗歌敬拜，查考圣经然后分享祷告。
-还不是基督徒、但对信仰有兴趣的朋友们则可以加入我们的福音组，查考适合慕道朋友的经文并讨论各种信仰议题。
+<strike>因为疫情原因，我们每周五晚上 7:30 - 9:30 在线上聚会。<br></strike>
+因为伊萨卡疫情改善，我们每周五晚上 7:30 - 9:30 在伊的家华人基督教会（429 Mitchell St.）聚会。<br>
+聚会开始我们会先一起诗歌敬拜，分享祷告然后查考圣经。
+<!-- 还不是基督徒、但对信仰有兴趣的朋友们则可以加入我们的福音组，查考适合慕道朋友的经文并讨论各种信仰议题。 -->
 </div>
 
 <div class="content-block" id="schedule">
@@ -41,7 +36,7 @@ Zoom Link: <a href="https://cornell.zoom.us/j/91405246988">https://cornell.zoom.
 <div class="content-block" id="links">
   <h3>Internal Links</h3>
   <div class="list-group">
-    <a href="https://docs.google.com/spreadsheets/d/19zXQIHOSMguO0Z2KVGTINlm51CKcjGXQoLS9RZ3nuvE/edit#gid=509030448" target="_blank" class="list-group-item list-group-item-action">查经安排</a>
+    <a href="https://docs.google.com/spreadsheets/d/19zXQIHOSMguO0Z2KVGTINlm51CKcjGXQoLS9RZ3nuvE/edit#gid=1127044384" target="_blank" class="list-group-item list-group-item-action">查经安排</a>
     <a href="https://docs.google.com/spreadsheets/d/1fTmJsCPD79zt0nIhrw1GFQkysZcQx0wy0W1yLiPdkGI/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">接送安排</a>
     <a href="https://docs.google.com/spreadsheets/d/1t71xdCgtYfgdhqLPqmgqvWGuqXX15VhwdH8Q-psgOy4/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">同工安排</a>
     <a href="https://docs.google.com/spreadsheets/d/17bAOvcNsK-pKnsjn-r7VfBZLXpGezmf6VGI0FiaTSDU/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">通讯录</a>
