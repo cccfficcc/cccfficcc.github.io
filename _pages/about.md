@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 <div class="content-block" id="intro">
 <h3>聚会内容</h3>
-我们每周五晚上 6:30 - 9:00 在伊的家华人基督教会（<a href="https://goo.gl/maps/jBF1A7kPZXGSLxjE7" target="_blank">429 Mitchell St.</a>）聚会。<br>
+我们每周五晚上 6:30 - 9:30 在伊的家华人基督教会（<a href="https://goo.gl/maps/jBF1A7kPZXGSLxjE7" target="_blank">429 Mitchell St.</a>）聚会。<br>
 聚会开始我们会先一起聚餐，诗歌敬拜，分享祷告然后查考圣经。
 <!-- 还不是基督徒、但对信仰有兴趣的朋友们则可以加入我们的福音组，查考适合慕道朋友的经文并讨论各种信仰议题。 -->
 </div>
@@ -29,7 +29,7 @@ social: true  # includes social icons at the bottom of the page
 <div class="content-block" id="schedule">
   <h3>查经安排</h3>
   <iframe src="
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7XMJ3D6V6hkC6BhjqMK6WTiiDkZ7CUsbgtl1onSKulHsI55l4BF9ZNG0Oda3xKYeWE8X_0F9evC_/pubhtml?gid=712745869&single=true&amp;widget=true&amp;headers=false"
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7XMJ3D6V6hkC6BhjqMK6WTiiDkZ7CUsbgtl1onSKulHsI55l4BF9ZNG0Oda3xKYeWE8X_0F9evC_/pubhtml?gid=1031399442&single=true&amp;headers=false"
 
    width="100%" height="700px"></iframe>
 </div>
