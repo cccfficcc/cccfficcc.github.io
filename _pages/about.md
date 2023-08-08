@@ -37,9 +37,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7XMJ3D6V6hkC6BhjqMK6WTiiDkZ7C
 <div class="content-block" id="links">
   <h3>Internal Links</h3>
   <div class="list-group">
-    <a href="https://docs.google.com/spreadsheets/d/19zXQIHOSMguO0Z2KVGTINlm51CKcjGXQoLS9RZ3nuvE/edit#gid=1630342170" target="_blank" class="list-group-item list-group-item-action">查经安排</a>
-    <a href="https://docs.google.com/spreadsheets/d/1fTmJsCPD79zt0nIhrw1GFQkysZcQx0wy0W1yLiPdkGI/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">接送安排</a>
-    <a href="https://docs.google.com/spreadsheets/d/1t71xdCgtYfgdhqLPqmgqvWGuqXX15VhwdH8Q-psgOy4/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">同工安排</a>
+    <a href="https://docs.google.com/spreadsheets/d/19zXQIHOSMguO0Z2KVGTINlm51CKcjGXQoLS9RZ3nuvE/edit#gid=1031399442" target="_blank" class="list-group-item list-group-item-action">查经安排</a>
     <a href="https://docs.google.com/spreadsheets/d/17bAOvcNsK-pKnsjn-r7VfBZLXpGezmf6VGI0FiaTSDU/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">通讯录</a>
     <a href="https://drive.google.com/drive/folders/1ZOJKiuUgddVg5ioOby4fk13mOHrmNCeF?usp=sharing" target="_blank" class="list-group-item list-group-item-action">查经资料</a>
     <a href="https://docs.google.com/spreadsheets/d/1gp4WJTGfYllaSiV3D0nyYIJ2bQ5VkLqedGyCnoN3mJQ/edit?usp=sharing" target="_blank" class="list-group-item list-group-item-action">Birthdays</a>
